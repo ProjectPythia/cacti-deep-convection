@@ -1,6 +1,6 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# (Replace_with_your_title) Cookbook
+# CACTI Deep Convection Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
@@ -10,11 +10,10 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
-
+This cookbook will show CACTI data access, manipulation and, some results regarding CACTI deep convection case of study. 
 ## Authors
 
-[First Author](@first-author), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
+[Natalia Roldan](@NataliaRoldanHenao), [Eddie Wolff](@EWolffWX), [Dhwanit J Mise](@dhwaniit), [Victor Ojo](victorojo24), [Alfonso Ladino](@aladinor)
 
 ### Contributors
 
