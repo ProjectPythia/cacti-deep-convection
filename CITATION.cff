@@ -14,9 +14,9 @@ authors:
     affiliation: University of Illinois at Urbana Champaign
   - family-names: Mise
     given-names: Dhwanit J.
-    orcid:https://orcid.org/0009-0009-9809-0182
+    orcid: https://orcid.org/0009-0009-9809-0182
     website: https://github.com/dhwaniit
-    affiliation:The University of Oklahoma
+    affiliation: The University of Oklahoma
   - family-names: Victor
     given-names: Ojo
     orcid: https://orcid.org/0009-0002-0180-4185
@@ -33,5 +33,4 @@ authors:
     website: https://github.com/mgrover1
     affiliation: Argonne National Laboratory
 title: "CACTI Deep Convetion initiation"
-abstract: "This cookbook will show CACTI data access, manipulation, and some results regarding the CACTI deep convection case study.
-"
+abstract: "This cookbook will show CACTI data access, manipulation, and some results regarding the CACTI deep convection case study"
