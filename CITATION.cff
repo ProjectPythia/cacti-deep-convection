@@ -4,9 +4,9 @@ authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
   - family-names: Natalia
     given-names: Henao-Roldan
-    orcid:
-    website:
-    affiliation:
+    orcid: https://orcid.org/0000-0002-3833-2719
+    website: https://github.com/NataliaRoldanHenao
+    affiliation: University of Maryland
   - family-names: Eddie
     given-names: Wolff
     orcid: https://orcid.org/0009-0002-8219-9908
