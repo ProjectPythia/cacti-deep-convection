@@ -1,4 +1,4 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
+<img src="notebooks/images/relampago_cacti_draft_logo-01.png" alt="thumbnail" width="300"/>
 
 # CACTI Deep Convection Cookbook
 
@@ -6,19 +6,21 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
 
 ## Motivation
 
-This cookbook will show CACTI data access, manipulation and, some results regarding CACTI deep convection case of study. 
+This cookbook will show CACTI data access, manipulation, and some results regarding the CACTI deep convection case study. 
+
 ## Authors
 
-[Natalia Roldan](@NataliaRoldanHenao), [Eddie Wolff](@EWolffWX), [Dhwanit J Mise](@dhwaniit), [Victor Ojo](victorojo24), [Alfonso Ladino](@aladinor)
-
+[Natalia Roldan](https://github.com/NataliaRoldanHenao)
+[Eddie Wolff](https://github.com/EWolffWX)
+[Dhwanit J Mise](https://github.com/dhwaniit)
+[Victor Ojo](victorojo24), [Alfonso Ladino](https://github.com/aladinor), [Max Grover](https://github.com/mgrover1)
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/aladinor/cacti-deep-convection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aladinor/cacti-deep-convection" />
 </a>
 
 ## Structure

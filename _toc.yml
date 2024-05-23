@@ -4,6 +4,6 @@ parts:
   - caption: Preamble
     chapters:
       - file: notebooks/how-to-cite
-  - caption: Introduction
+  - caption: Radar Analysis
     chapters:
-      - file: notebooks/notebook-template
+      - glob: notebooks/*
