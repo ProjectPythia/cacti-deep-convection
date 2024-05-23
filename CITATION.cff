@@ -9,19 +9,19 @@ authors:
     affiliation:
   - family-names: Eddie
     given-names: Wolff
-    orcid:
-    website:
-    affiliation:
-  - family-names: Dhwanit
-    given-names: Mise
-    orcid:
-    website:
-    affiliation:
+    orcid: https://orcid.org/0009-0002-8219-9908
+    website: https://github.com/EWolffWX
+    affiliation: University of Illinois at Urbana Champaign
+  - family-names: Mise
+    given-names: Dhwanit J.
+    orcid:https://orcid.org/0009-0009-9809-0182
+    website: https://github.com/dhwaniit
+    affiliation:The University of Oklahoma
   - family-names: Victor
     given-names: Ojo
-    orcid:
-    website:
-    affiliation:
+    orcid: https://orcid.org/0009-0002-0180-4185
+    website: https://github.com/victorojo24
+    affiliation: University of North Dakota
   - family-names: Alfonso
     given-names: Ladino-Rincon
     orcid: https://orcid.org/0000-0001-8081-7827
