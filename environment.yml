@@ -1,7 +1,13 @@
-name: cookbook-dev
+name: cacti-deep-convection-dev
 channels:
   - conda-forge
 dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+  - xarray
+  - arm_pyart
+  - act-atmos
+  - dask
+  - dask-labextension
+  - xradar

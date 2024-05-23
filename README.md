@@ -1,41 +1,45 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
+<img src="notebooks/images/relampago_cacti_draft_logo-01.png" alt="thumbnail" width="300"/>
 
-# CACTI Deep Convection Cookbook
+# CACTI Deep Convection Initiation
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
 
 ## Motivation
 
-This cookbook will show CACTI data access, manipulation and, some results regarding CACTI deep convection case of study. 
+This cookbook will show CACTI data access, manipulation, and some results regarding the CACTI deep convection case study. 
+
 ## Authors
 
-[Natalia Roldan](@NataliaRoldanHenao), [Eddie Wolff](@EWolffWX), [Dhwanit J Mise](@dhwaniit), [Victor Ojo](victorojo24), [Alfonso Ladino](@aladinor)
-
+[Natalia Roldan](https://github.com/NataliaRoldanHenao)
+[Eddie Wolff](https://github.com/EWolffWX)
+[Dhwanit J Mise](https://github.com/dhwaniit)
+[Victor Ojo](victorojo24), [Alfonso Ladino](https://github.com/aladinor), [Max Grover](https://github.com/mgrover1)
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/aladinor/cacti-deep-convection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aladinor/cacti-deep-convection" />
 </a>
 
 ## Structure
 
 (State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### CACTI field campaign
 
 (Add content for this section, e.g., "The foundational content includes ... ")
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Radar observations
 
 (Add content for this section, e.g., "Example workflows include ... ")
 
-## Running the Notebooks
+### Hypothesis and research questions
 
 You can either run the notebook using [Binder](https://binder.projectpythia.org/) or on your local machine.
+
+### Results and conclusiones 
 
 ### Running on Binder
 
@@ -58,22 +62,20 @@ Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyt
 
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
 
-(Replace "cookbook-example" with the title of your cookbooks)
-
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/aladinor/cacti-deep-convection` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/aladinor/cacti-deep-convection
    ```
 
-1. Move into the `cookbook-example` directory
+1. Move into the `cacti-deep-convection` directory
    ```bash
-   cd cookbook-example
+   cd cacti-deep-convection
    ```
 1. Create and activate your conda environment from the `environment.yml` file
    ```bash
    conda env create -f environment.yml
-   conda activate cookbook-example
+   conda activate cacti-deep-convection-dev
    ```
 1. Move into the `notebooks` directory and start up Jupyterlab
    ```bash
