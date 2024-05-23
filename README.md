@@ -1,4 +1,4 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
+<img src="notebooks/images/relampago_cacti_draft_logo-01.png" alt="thumbnail" width="300"/>
 
 # CACTI Deep Convection Cookbook
 
@@ -9,7 +9,8 @@
 
 ## Motivation
 
-This cookbook will show CACTI data access, manipulation and, some results regarding CACTI deep convection case of study. 
+This cookbook will show CACTI data access, manipulation, and some results regarding the CACTI deep convection case study. 
+
 ## Authors
 
 [Natalia Roldan](https://github.com/NataliaRoldanHenao)
