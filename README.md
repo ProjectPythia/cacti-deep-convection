@@ -9,7 +9,7 @@
 
 ## Motivation
 
-This cookbook will show CACTI data access, manipulation, and some results regarding the CACTI deep convection case study. 
+This cookbook will show CACTI data access, manipulation, and some results regarding a deep convection case study. 
 
 ## Authors
 
@@ -25,21 +25,20 @@ This cookbook will show CACTI data access, manipulation, and some results regard
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
 
 ### CACTI field campaign
 
-(Add content for this section, e.g., "The foundational content includes ... ")
-
 ### Radar observations
-
-(Add content for this section, e.g., "Example workflows include ... ")
 
 ### Hypothesis and research questions
 
-You can either run the notebook using [Binder](https://binder.projectpythia.org/) or on your local machine.
+### Deep convection meteorological conditions
 
-### Results and conclusiones 
+### Microphysical features of deep convection
+
+### LASSO simulations
+
+## Conclusions
 
 ### Running on Binder
 
