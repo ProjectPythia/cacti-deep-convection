@@ -16,4 +16,5 @@ parts:
       - file: notebooks/microphysical-aspects.ipynb
   - caption: LASSO simulation of DC
     chapters:
+      - file: notebooks/Cloud_CrossSection.ipynb
       - file: notebooks/Divergence_Calculations.ipynb
