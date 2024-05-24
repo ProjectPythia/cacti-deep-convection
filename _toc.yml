@@ -12,8 +12,8 @@ parts:
       - file: notebooks/meteorology.ipynb
   - caption: Microphysics features of DC
     chapters:
+      - file: notebooks/thermo-rain-lasso.ipynb
       - file: notebooks/microphysical-aspects.ipynb
   - caption: LASSO simulation of DC
     chapters:
-      - file: notebooks/thermo-rain-lasso.ipynb
       - file: notebooks/Divergence_Calculations.ipynb
