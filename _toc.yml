@@ -4,6 +4,17 @@ parts:
   - caption: Preamble
     chapters:
       - file: notebooks/how-to-cite
-  - caption: Radar Analysis
+  - caption: Intro
     chapters:
-      - glob: notebooks/*
+      - file: notebooks/Intro.ipynb
+  - caption: Deep convection (DC)
+    chapters:
+      - file: notebooks/meteorology.ipynb
+  - caption: Microphysics features of DC
+    chapters:
+      - file: notebooks/thermo-rain-lasso.ipynb
+      - file: notebooks/microphysical-aspects.ipynb
+  - caption: LASSO simulation of DC
+    chapters:
+      - file: notebooks/Cloud_CrossSection.ipynb
+      - file: notebooks/Divergence_Calculations.ipynb
